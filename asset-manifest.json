@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.059e3947.css",
+    "main.js": "/static/js/main.1ce6a6a6.js",
+    "static/media/chatApp.png": "/static/media/chatApp.c2a081e175d4a446b6b0.png",
+    "static/media/heroImage.jpg": "/static/media/heroImage.87ee0c28a55d768e6e9b.jpg",
+    "static/media/iosCalculator.png": "/static/media/iosCalculator.f87fd86a53316b595459.png",
+    "static/media/TicTacToe.png": "/static/media/TicTacToe.76a35b223c7478e0d7a5.png",
+    "static/media/textVerse.png": "/static/media/textVerse.674ff8e4b47fd65da71c.png",
+    "static/media/snakeGame.png": "/static/media/snakeGame.2a88124f5b1fa8d49394.png",
+    "static/media/narutoGame.png": "/static/media/narutoGame.53641cfb4ec9199d064c.png",
+    "static/media/NotebookZone.png": "/static/media/NotebookZone.ee1c739dccad0bbf19fc.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.f132cb791703420e69ca.png",
+    "static/media/mongoDB.png": "/static/media/mongoDB.f6698902ce1724e4aed9.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.059e3947.css.map": "/static/css/main.059e3947.css.map",
+    "main.1ce6a6a6.js.map": "/static/js/main.1ce6a6a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.059e3947.css",
+    "static/js/main.1ce6a6a6.js"
+  ]
+}
