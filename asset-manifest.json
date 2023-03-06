@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.059e3947.css",
-    "main.js": "/static/js/main.1ce6a6a6.js",
+    "main.js": "/static/js/main.309696a0.js",
     "static/media/chatApp.png": "/static/media/chatApp.c2a081e175d4a446b6b0.png",
+    "static/media/ChatVerse.png": "/static/media/ChatVerse.47e2c5f39a298644e644.png",
     "static/media/heroImage.jpg": "/static/media/heroImage.87ee0c28a55d768e6e9b.jpg",
     "static/media/iosCalculator.png": "/static/media/iosCalculator.f87fd86a53316b595459.png",
     "static/media/TicTacToe.png": "/static/media/TicTacToe.76a35b223c7478e0d7a5.png",
@@ -21,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.059e3947.css.map": "/static/css/main.059e3947.css.map",
-    "main.1ce6a6a6.js.map": "/static/js/main.1ce6a6a6.js.map"
+    "main.309696a0.js.map": "/static/js/main.309696a0.js.map"
   },
   "entrypoints": [
     "static/css/main.059e3947.css",
-    "static/js/main.1ce6a6a6.js"
+    "static/js/main.309696a0.js"
   ]
 }
